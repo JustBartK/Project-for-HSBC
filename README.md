@@ -41,4 +41,6 @@ assessed in reference to COVID-19 data and differences should be commented on (e
 size of lookback period or the used methodology). One could also consider different performance
 metrics based e.g. on PIT-based backtests or mean quantile score evaluation.
 - Identify the best estimator and discuss it. Potential flaws should be outlined, and potential
-enhancements could be proposed
+enhancements could be proposed.
+
+For more detailed presentation, please take a look at .pptx file.
